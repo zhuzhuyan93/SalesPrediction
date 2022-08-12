@@ -1,0 +1,1 @@
+print(pd.to_datetime(df.order_time)).dt.to_day()
